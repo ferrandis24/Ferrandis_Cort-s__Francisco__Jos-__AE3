@@ -1,0 +1,22 @@
+{
+  "name": "ae3-proyectodom",
+  "version": "0.0.1",
+  "description": "recopilacion de datos de un usuario",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ferrandis24/AE3-ProyectoDOM.git"
+  },
+  "author": "Francisco José Ferrandis Cortés",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ferrandis24/AE3-ProyectoDOM/issues"
+  },
+  "homepage": "https://github.com/ferrandis24/AE3-ProyectoDOM#readme",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
+}

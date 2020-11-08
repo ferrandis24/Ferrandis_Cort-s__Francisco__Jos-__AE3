@@ -1,0 +1,52 @@
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 15px;
+    overflow: hidden;
+    background-color: #333;
+  }
+  #adelante{
+    size: 16px;
+    float: right;
+    color: white;
+    
+   
+  }
+  #atras{
+   size: 16px;
+   float: left;
+   color: white;
+   
+  
+  }
+
+
+
+  input, select{
+      margin-top: 10px;
+      width: 250px;
+  }
+
+  form{
+     text-align: center;
+
+  }
+  
+  button{
+    background-color: blue;
+    border-radius: 3px;
+    border: solid;
+    color: white;
+    
+    
+  }
+
+  button:active{
+      color: black;
+      background-color: orange;
+
+  }
+
+  #error-name,#error-apellidos,#error-date,#error-codpost,#error-municipio{
+      color: red;
+  }
